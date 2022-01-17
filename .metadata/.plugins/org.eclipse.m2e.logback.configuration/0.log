@@ -1,0 +1,4 @@
+2022-01-17 16:39:41,269 [Worker-30: Building] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Changed resources require a complete clean of filtered resources of cmms_project1
+2022-01-17 16:39:41,278 [Worker-30: Building] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Executing resource filtering for cmms_project1
+2022-01-17 16:58:24,666 [Worker-42: Building] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Changed resources require a complete clean of filtered resources of cmms_project1
+2022-01-17 16:58:24,667 [Worker-42: Building] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Executing resource filtering for cmms_project1
